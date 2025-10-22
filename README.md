@@ -42,7 +42,7 @@ You are free to share and adapt this material with proper credit.
 ## Author
 **Y.M.L.K. Bandara**  
 BSc (Hons) in Information Technology (Cyber Security Specialization)  
-Sri Lanka Institute of Information Technology (SLIIT) – Kandy Campus  
+Sri Lanka Institute of Information Technology (SLIIT) – Kandy UNI.  
 
 > “In cybersecurity, the human mind is both the greatest weakness and the greatest defense.” 
 

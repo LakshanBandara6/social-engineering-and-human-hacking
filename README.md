@@ -1,6 +1,6 @@
 # 🧠 Social Engineering and Human Hacking  
 ### *Research Paper by Y.M.L.K. Bandara (IT23620834)*  
-**Institution:** Sri Lanka Institute of Information Technology (SLIIT), Kandy Campus  
+**Institution:** Sri Lanka Institute of Information Technology (SLIIT).
 **Year:** 2025  
 
 ---

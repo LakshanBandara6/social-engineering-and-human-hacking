@@ -1,5 +1,5 @@
 # 🧠 Social Engineering and Human Hacking  
-### Research Paper by Y.M.L.K. Bandara  
+### Research Paper by Lakshan Bandara  
 **Institution:** Sri Lanka Institute of Information Technology (SLIIT).
 **Year:** 2025  
 

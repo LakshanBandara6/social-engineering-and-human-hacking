@@ -5,8 +5,7 @@
 
 ---
 
-## Overview
-This repository contains my IEEE-formatted research paper titled **“Social Engineering and Human Hacking.”**  
+## Overview 
 The research explores how attackers exploit human psychology instead of system vulnerabilities, examining the evolution of social engineering from early phishing techniques to modern AI-driven and deepfake-based attacks.
 
 ---
